@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://cloudsail.uk/</loc>
-    <lastmod>2026-02-22</lastmod>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://cloudsail.uk/hkmp/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cloudsail.uk/mc/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://cloudsail.uk/ranks/</loc>
-    <priority>0.8</priority>
-  </url>
+  <url><loc>index.html</loc></url>
+  <url><loc>hkmp/index.html</loc></url>
+  <url><loc>legal/index.html</loc></url>
+  <url><loc>legal/privacy/index.html</loc></url>
+  <url><loc>legal/terms-and-conditions/index.html</loc></url>
+  <url><loc>mc/index.html</loc></url>
+  <url><loc>ranks/index.html</loc></url>
 </urlset>
