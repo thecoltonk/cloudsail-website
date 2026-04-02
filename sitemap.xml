@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>index.html</loc></url>
-  <url><loc>hkmp/index.html</loc></url>
-  <url><loc>legal/index.html</loc></url>
-  <url><loc>legal/privacy/index.html</loc></url>
-  <url><loc>legal/terms-and-conditions/index.html</loc></url>
-  <url><loc>mc/index.html</loc></url>
-  <url><loc>ranks/index.html</loc></url>
+  <url><loc>https://cloudsail.uk/</loc></url>
+  <url><loc>https://cloudsail.uk/hkmp/</loc></url>
+  <url><loc>https://cloudsail.uk/legal/</loc></url>
+  <url><loc>https://cloudsail.uk/legal/privacy/</loc></url>
+  <url><loc>https://cloudsail.uk/legal/terms-and-conditions/</loc></url>
+  <url><loc>https://cloudsail.uk/mc/</loc></url>
+  <url><loc>https://cloudsail.uk/ranks/</loc></url>
 </urlset>
