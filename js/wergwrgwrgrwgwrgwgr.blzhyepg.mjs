@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.hbrq4igt.mjs";import{B as t,R as n,T as r,V as i,c as a,o}from"./react.svam4ynk.mjs";function s(e){return t=>{let[r,o]=n(`Copy Server IP`),s=()=>{i.clipboard.writeText(`mc.cloudsail.uk`),o(`Copied!`),setTimeout(()=>{o(`Copy Server IP`)},2e3)};return a(e,{...t,label:r,onClick:s})}}var c=e((()=>{t(),o(),r()}));export{c as n,s as t};
+//# sourceMappingURL=Wergwrgwrgrwgwrgwgr.BlZHYePg.mjs.map
