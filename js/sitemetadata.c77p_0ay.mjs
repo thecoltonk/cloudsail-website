@@ -1,0 +1,2 @@
+import{t as e}from"./rolldown-runtime.dh6celcd.mjs";function t(e,t){return{description:`Cloudsail is the foundation for private, untracked cloud infrastructure.`,favicon:`https://framerusercontent.com/assets/bg6mzYLsALlRaL76hwT8UEWSSkQ.png`,robots:`max-image-preview:large`,socialImage:`https://framerusercontent.com/assets/7PFbKglpzteN0Ec9McRDrPokQ4.png`,title:`Cloudsail - Private Cloud Infrastructure`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=siteMetadata.C77p_0Ay.mjs.map
